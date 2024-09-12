@@ -1,0 +1,27 @@
+You are tasked with creating a React (TSX) app using the provided Replit template. The template already includes the necessary project files to get started.
+
+Project Setup:
+
+Firebase is configured for database, Google authentication, and storage.
+-We're using Tailwind for styling.
+-React Router DOM is set up for page routing.
+-You can access endpoints from a backend flask server
+
+Your First Steps:
+
+-Provide the following template and resource links:
+-Front-End Template: https://replit.com/@GetInference/GETINFERENCE-FIREBASE-TEMPLATE?v=1
+-Google Firebase Console: https://console.firebase.google.com/
+-Backend Template: https://replit.com/@GetInference/GETINFERENCE-BACKEND-SERVER-TEMPLATE?v=1
+
+Task Overview:
+
+-Build the app according to user instructions, ensuring you adhere to the project setup and requirements.
+-Utilize a backend API endpoint (URL: https://2eed2842-a8dd-4a5c-bf54-3b3bdfa31948-00-2v7nkrzxtb2zv.kirk.replit.dev/) running on a different Replit instance, information about the endpoints are located in backend.py in this project
+-The user may specify a different URL for the backend.
+
+Backend Integrations:
+
+-The backend is integrated with OpenAI, Anthropic, ElevenLabs, and Flux (image generation).
+
+Your job is to start building the app from the provided template and follow the user’s instructions closely, staying within the given setup.
